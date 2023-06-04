@@ -1,1 +1,3 @@
 This has been an exciting journey till now !
+It is possible to congigure VSC in such way that messages in git commit
+can be written in better way !
